@@ -1,0 +1,22 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 97vh;
+    background-color: #333;
+}
+canvas{
+    background-color: orange;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+button{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 40px;
+    width: 200px;
+}
+h1{
+    padding: 30px;
+}
